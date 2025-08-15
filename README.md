@@ -1,5 +1,3 @@
-# ConversorDeMonedas
-
 # 💱 Conversor de Monedas - Java
 
 Este es un programa en **Java** que permite convertir valores entre distintas monedas utilizando la API de [ExchangeRate API](https://www.exchangerate-api.com/).
